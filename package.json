@@ -1,0 +1,41 @@
+{
+    "name": "roxo-theme-vscode",
+    "version": "1.0.0",
+    "publisher": "rellyson",
+    "description": "A low-contrast, eye-friendly, dark purple theme for vscode.",
+    "license": "MIT",
+    "repository": {
+        "url": "https://github.com/roxo-theme/vscode"
+    },
+    "author": {
+        "name": "Rellyson Silva"
+    },
+    "type": "module",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "icon": "assets/icon.png",
+    "displayName": "Roxo theme",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "minimal",
+        "low-contrast",
+        "eye-friendly",
+        "dark"
+    ],
+    "galleryBanner": {
+        "color": "#120d17",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Roxo theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/roxo-theme.json"
+            }
+        ]
+    }
+}
