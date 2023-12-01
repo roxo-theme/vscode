@@ -27,11 +27,11 @@
         "button.secondaryHoverBackground": "#120d17",
         "charts.blue": "#94e2d5",
         "charts.foreground": "#e0def4",
-        "charts.green": "#6ca2c5",
+        "charts.green": "#94e2d5",
         "charts.lines": "#908caa",
         "charts.orange": "#94e2d5",
         "charts.purple": "#b4beee",
-        "charts.red": "#b4beee",
+        "charts.red": "#f38ba8",
         "charts.yellow": "#F7BAA2",
         "checkbox.background": "#120d17",
         "checkbox.border": "#6e6a8633",
@@ -103,20 +103,20 @@
         "editor.wordHighlightStrongBackground": "#6e6a8633",
         "editor.wordHighlightStrongBorder": "#6e6a8633",
         "editorBracketHighlight.foreground1": "#b4beee80",
-        "editorBracketHighlight.foreground2": "#6ca2c580",
+        "editorBracketHighlight.foreground2": "#94e2d580",
         "editorBracketHighlight.foreground3": "#F7BAA280",
-        "editorBracketHighlight.foreground4": "#94e2d580",
-        "editorBracketHighlight.foreground5": "#94e2d580",
-        "editorBracketHighlight.foreground6": "#b4beee80",
+        "editorBracketHighlight.foreground4": "#a288de80",
+        "editorBracketHighlight.foreground5": "#b4beee80",
+        "editorBracketHighlight.foreground6": "#6ca2c580",
         "editorBracketMatch.background": "#0000",
         "editorBracketMatch.border": "#908caa",
-        "editorBracketPairGuide.activeBackground1": "#6ca2c5",
+        "editorBracketPairGuide.activeBackground1": "#b4beee",
         "editorBracketPairGuide.activeBackground2": "#94e2d5",
         "editorBracketPairGuide.activeBackground3": "#b4beee",
         "editorBracketPairGuide.activeBackground4": "#94e2d5",
         "editorBracketPairGuide.activeBackground5": "#F7BAA2",
         "editorBracketPairGuide.activeBackground6": "#b4beee",
-        "editorBracketPairGuide.background1": "#6ca2c580",
+        "editorBracketPairGuide.background1": "#b4beee80",
         "editorBracketPairGuide.background2": "#94e2d580",
         "editorBracketPairGuide.background3": "#b4beee80",
         "editorBracketPairGuide.background4": "#94e2d580",
@@ -158,7 +158,7 @@
         "editorInlayHint.parameterForeground": "#b4beee",
         "editorInlayHint.typeBackground": "#120d17",
         "editorInlayHint.typeForeground": "#94e2d5",
-        "editorLightBulb.foreground": "#6ca2c5",
+        "editorLightBulb.foreground": "#b4beee",
         "editorLightBulbAutoFix.foreground": "#94e2d5",
         "editorLineNumber.activeForeground": "#e0def4",
         "editorLineNumber.foreground": "#908caa",
@@ -424,19 +424,19 @@
         "tab.unfocusedInactiveBackground": "#0000",
         "tab.unfocusedInactiveModifiedBorder": "#94e2d580",
         "terminal.ansiBlack": "#120d17",
-        "terminal.ansiBlue": "#94e2d5",
+        "terminal.ansiBlue": "#b4beee",
         "terminal.ansiBrightBlack": "#908caa",
-        "terminal.ansiBrightBlue": "#94e2d5",
+        "terminal.ansiBrightBlue": "#b4beee",
         "terminal.ansiBrightCyan": "#94e2d5",
-        "terminal.ansiBrightGreen": "#6ca2c5",
+        "terminal.ansiBrightGreen": "#b4beee",
         "terminal.ansiBrightMagenta": "#b4beee",
-        "terminal.ansiBrightRed": "#b4beee",
+        "terminal.ansiBrightRed": "#f38ba8",
         "terminal.ansiBrightWhite": "#e0def4",
         "terminal.ansiBrightYellow": "#F7BAA2",
         "terminal.ansiCyan": "#94e2d5",
-        "terminal.ansiGreen": "#6ca2c5",
+        "terminal.ansiGreen": "#94e2d5",
         "terminal.ansiMagenta": "#b4beee",
-        "terminal.ansiRed": "#b4beee",
+        "terminal.ansiRed": "#f38ba8",
         "terminal.ansiWhite": "#e0def4",
         "terminal.ansiYellow": "#F7BAA2",
         "terminal.dropBackground": "#6e6a8633",
@@ -482,7 +482,7 @@
                 "constant"
             ],
             "settings": {
-                "foreground": "#6ca2c5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -528,7 +528,7 @@
                 "invalid"
             ],
             "settings": {
-                "foreground": "#b4beee"
+                "foreground": "#f38ba8"
             }
         },
         {
@@ -536,7 +536,7 @@
                 "invalid.deprecated"
             ],
             "settings": {
-                "foreground": "#908caa"
+                "foreground": "#f38ba8"
             }
         },
         {
@@ -544,7 +544,7 @@
                 "keyword"
             ],
             "settings": {
-                "foreground": "#6ca2c5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -552,7 +552,7 @@
                 "markup.inserted.diff"
             ],
             "settings": {
-                "foreground": "#94e2d5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -604,7 +604,7 @@
                 "meta.export"
             ],
             "settings": {
-                "foreground": "#6ca2c5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -617,7 +617,7 @@
         {
             "scope": "meta.property-name.css",
             "settings": {
-                "foreground": "#94e2d5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -670,7 +670,7 @@
                 "storage.modifier"
             ],
             "settings": {
-                "foreground": "#6ca2c5"
+                "foreground": "#b4beee"
             }
         },
         {
@@ -702,7 +702,7 @@
                 "support.function"
             ],
             "settings": {
-                "foreground": "#b4beee",
+                "foreground": "#94e2d5",
                 "fontStyle": "italic"
             }
         },
@@ -723,7 +723,7 @@
                 "variable.argument"
             ],
             "settings": {
-                "foreground": "#e0def4"
+                "foreground": "#94e2d5"
             }
         },
         {
@@ -731,7 +731,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#b4beee"
+                "foreground": "#F7BAA2"
             }
         }
     ]
