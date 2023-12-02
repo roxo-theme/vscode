@@ -549,6 +549,14 @@
         },
         {
             "scope": [
+                "markup.quote"
+            ],
+            "settings": {
+                "foreground": "#b4beee"
+            }
+        },
+        {
+            "scope": [
                 "markup.inserted.diff"
             ],
             "settings": {
@@ -557,28 +565,59 @@
         },
         {
             "scope": [
-                "markup.deleted.diff"
+                "markup.deleted",
+                "meta.diff.header.from-file",
+                "punctuation.definition.deleted"
             ],
             "settings": {
+                "foreground": "#f38ba8"
+            }
+        },
+        {
+            "scope": [
+                "markup.heading",
+                "markup.heading entity.name"
+            ],
+            "settings": {
+                "fontStyle": "bold",
                 "foreground": "#b4beee"
             }
         },
         {
-            "scope": "markup.heading",
+            "scope": "markup.bold",
             "settings": {
+                "foreground": "#b4beee",
                 "fontStyle": "bold"
             }
         },
         {
-            "scope": "markup.bold.markdown",
+            "scope": "markup.italic",
             "settings": {
-                "fontStyle": "bold"
-            }
-        },
-        {
-            "scope": "markup.italic.markdown",
-            "settings": {
+                "foreground": "#b4beee",
                 "fontStyle": "italic"
+            }
+        },
+        {
+            "scope": [
+                "markup.underline"
+            ],
+            "settings": {
+                "foreground": "#F7BAA2",
+                "fontStyle": "underline"
+            }
+        },
+        {
+            "scope": [
+                "markup.strikethrough"
+            ],
+            "settings": {
+                "fontStyle": "strikethrough"
+            }
+        },
+        {
+            "scope": "markup.inline.raw",
+            "settings": {
+                "foreground": "#F7BAA2"
             }
         },
         {
@@ -595,7 +634,7 @@
                 "meta.brace"
             ],
             "settings": {
-                "foreground": "#e0def4"
+                "foreground": "#F7BAA2"
             }
         },
         {
@@ -637,7 +676,7 @@
                 "punctuation"
             ],
             "settings": {
-                "foreground": "#908caa"
+                "foreground": "#F7BAA2"
             }
         },
         {
