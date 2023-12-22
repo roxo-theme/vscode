@@ -3,12 +3,13 @@
     <h2 align="center">Roxo for VSCode</h2>
 </p>
 
+
 <p align="center">A low-contrast, eye-friendly, dark purple theme.</p>
 
+![RoxoTheme](./assets/preview.jpg)
 
 ## Usage
 
 1. Open VSCode
 2. Search for `Roxo theme` in extensions
 3. Install the theme and choose your variant in `Preferences: Color theme`
-4. Optionally enable the included icon theme in `Preferences: File Icon Theme`
