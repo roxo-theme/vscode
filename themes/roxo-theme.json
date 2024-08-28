@@ -733,7 +733,7 @@
                 "storage.type"
             ],
             "settings": {
-                "foreground": "#94e2d5"
+                "foreground": "#f5c2d7"
             }
         },
         {
@@ -808,6 +808,22 @@
             ],
             "settings": {
                 "foreground": "#b4beee"
+            }
+        },
+        {
+            "scope": [
+                "variable.other.property"
+            ],
+            "settings": {
+                "foreground": "#94e2d5"
+            }
+        },
+        {
+            "scope": [
+                "variable.other.assignment"
+            ],
+            "settings": {
+                "foreground": "#94e2d5"
             }
         },
         {

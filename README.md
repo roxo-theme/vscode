@@ -6,7 +6,6 @@
 
 <p align="center">A low-contrast, eye-friendly, dark purple theme.</p>
 
-![RoxoTheme](./assets/preview.jpg)
 
 ## Usage
 
